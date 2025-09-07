@@ -7,3 +7,6 @@ fonte que só funcionava se tiver alimentada em DC e 60hz
 
 possiveis mudanças...  ligar em 12 - 30v fonte chaveada.
 
+Aplicar essas mudanças. Para que funcione.
+
+https://github.com/SaulMonteiro/dc-0_30v_regulated/blob/main/schematic.png
